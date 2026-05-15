@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.455452mm"
+   height="8.1470108mm"
+   viewBox="0 0 8.4554522 8.1470106"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="star.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="6.064927"
+     inkscape:cx="43.446524"
+     inkscape:cy="44.435819"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.146929,-43.335505)">
+    <path
+       sodipodi:type="star"
+       style="fill:#d4aa00;stroke-width:4.99999"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="36.276821"
+       sodipodi:cy="43.680256"
+       sodipodi:r1="4.4489093"
+       sodipodi:r2="2.2244549"
+       sodipodi:arg1="0.98279372"
+       sodipodi:arg2="1.6111123"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 38.744632,47.381972 -2.557468,-1.479069 -2.668289,1.268274 0.616377,-2.889354 -2.030746,-2.145776 2.93841,-0.30665 1.413218,-2.594435 1.19966,2.699833 2.904164,0.542327 -2.196979,1.975238 z"
+       inkscape:transform-center-x="-0.055410865"
+       inkscape:transform-center-y="-0.37178898"
+       transform="translate(3.0424228,4.1005435)" />
+  </g>
+</svg>

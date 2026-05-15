@@ -1,0 +1,9 @@
+@import url(C:\Users\simrs\Downloads\d15\font\gilroy-font\Gilroy-FREE\Gilroy-Light);
+@import url(C:\Users\simrs\Downloads\d15\font\gilroy-font\Gilroy-FREE\Gilroy-Bold);
+
+:root {
+    --primary-color:var(--primary-color)
+}
+body {
+    font-family: `Gilroy;
+}
